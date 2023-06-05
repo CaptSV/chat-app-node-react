@@ -1,9 +1,6 @@
 # chat-app-node-react
 Chat app using React/Node/Express
 
-# chat-app
-Chat app using React/Node/Express
-
 # Installation
 npm install
 client/server folder - npm run dev
